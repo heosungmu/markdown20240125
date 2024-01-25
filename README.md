@@ -2,7 +2,7 @@
 ```
 ![link text](link url)
 ```
-![window image](https://github.com/heosungmu/markdown20240125/tree/main/Saved%20Pictures)
+![window image](https://github.com/heosungmu/markdown20240125/blob/main/2020-11-12%2B08_51_50.453.jpg)
 ### 7. 하이퍼링크
 ``` 
 [link text](link url "설명")
