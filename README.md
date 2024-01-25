@@ -60,8 +60,7 @@
 1. 목록2
 3. 목록3
 
-### 4. 코드 블럭
-# index
+# 4. 코드 블럭
 ```JAVA
 public class Hello {
   public static void main(String[] args) {
