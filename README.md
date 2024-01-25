@@ -1,3 +1,8 @@
+### 12. 수학 수식 : LaTex 구문
+[LaTex구문](https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:TeX_%EB%AC%B8%EB%B2%95)  
+x^2 + y^2 = z^2$  
+\sum_{i=1}^n {i=(n+1) \over 4}
+
 ### 11. 같은 페이지 내 이동
 ```
 [link text](이동할 위치)
