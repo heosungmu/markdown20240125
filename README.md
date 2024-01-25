@@ -1,3 +1,8 @@
+### 8. 이미지 넣기
+```
+![link text](link url)
+```
+![window image](https://github.com/heosungmu/markdown20240125/tree/main/Saved%20Pictures)
 ### 7. 하이퍼링크
 ``` 
 [link text](link url "설명")
