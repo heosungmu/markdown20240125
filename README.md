@@ -2,7 +2,7 @@
 ```
 [link text](이동할 위치)
 ```
-[code block](#4. 코드 블럭)
+[code block](#코드블럭)
 
 ### 10. 표
 |No|함수|의미|
@@ -60,7 +60,8 @@
 1. 목록2
 3. 목록3
 
-# 4. 코드 블럭
+### 4.코드 블럭
+# 코드블럭
 ```JAVA
 public class Hello {
   public static void main(String[] args) {
