@@ -2,7 +2,7 @@
 ```
 [link text](이동할 위치)
 ```
-[code block](#index)
+[code block](index)
 
 ### 10. 표
 |No|함수|의미|
