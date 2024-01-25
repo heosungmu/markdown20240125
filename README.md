@@ -1,4 +1,3 @@
-### 8. image
 ### 7. 하이퍼링크
 ``` 
 [link text](link url "설명")
